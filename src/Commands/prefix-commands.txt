@@ -1,0 +1,10 @@
+module.exports = {
+name: '',
+description: '',
+
+execute(client, message, args) {
+
+message.reply('x');
+
+},
+};
